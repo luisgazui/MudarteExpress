@@ -1,0 +1,2 @@
+cd MudarteExpress
+grunt server
